@@ -6,7 +6,7 @@ This application is a **Medical Domain Chatbot** built using **Retrieval-Augment
 
 ---
 
-
+🚀 Live Demo badge → https://medical-assistant-rag-cepwjrdx6ajrwgcj78kwmo.streamlit.app/
 
 
 
