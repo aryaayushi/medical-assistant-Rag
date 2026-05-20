@@ -6,6 +6,11 @@ This application is a **Medical Domain Chatbot** built using **Retrieval-Augment
 
 ---
 
+## 🚀 Live Demo
+[![Live Demo](https://medical-assistant-rag-cepwjrdx6ajrwgcj78kwmo.streamlit.app/)
+
+
+
 ## 🎓 What is RAG?
 
 **RAG (Retrieval-Augmented Generation)** enhances language models by supplying relevant external context from a knowledge base, preventing hallucinations and improving accuracy, especially for factual or specialized domains like **medicine**.
